@@ -1,0 +1,54 @@
+[
+  {
+    "image": "bird",
+    "hr_size": "288x288",
+    "lr_size": "144x144",
+    "psnr_degraded_lr": 12.14,
+    "ssim_degraded_lr": 0.1068,
+    "psnr_dn": 19.66,
+    "ssim_dn": 0.4667,
+    "psnr_db": 19.82,
+    "ssim_db": 0.49,
+    "psnr_final_hr": 19.54,
+    "ssim_final_hr": 0.4853
+  },
+  {
+    "image": "butterfly",
+    "hr_size": "256x256",
+    "lr_size": "128x128",
+    "psnr_degraded_lr": 11.52,
+    "ssim_degraded_lr": 0.1795,
+    "psnr_dn": 15.18,
+    "ssim_dn": 0.3888,
+    "psnr_db": 15.36,
+    "ssim_db": 0.4013,
+    "psnr_final_hr": 14.82,
+    "ssim_final_hr": 0.3779
+  },
+  {
+    "image": "kodim03",
+    "hr_size": "768x512",
+    "lr_size": "384x256",
+    "psnr_degraded_lr": 13.34,
+    "ssim_degraded_lr": 0.0726,
+    "psnr_dn": 25.34,
+    "ssim_dn": 0.6564,
+    "psnr_db": 25.4,
+    "ssim_db": 0.6446,
+    "psnr_final_hr": 24.39,
+    "ssim_final_hr": 0.6498
+  },
+  {
+    "image": "kodim01",
+    "hr_size": "768x512",
+    "lr_size": "384x256",
+    "psnr_degraded_lr": 13.38,
+    "ssim_degraded_lr": 0.1349,
+    "psnr_dn": 21.42,
+    "ssim_dn": 0.4373,
+    "psnr_db": 21.54,
+    "ssim_db": 0.4467,
+    "psnr_final_hr": 19.67,
+    "ssim_final_hr": 0.3329
+  }
+]

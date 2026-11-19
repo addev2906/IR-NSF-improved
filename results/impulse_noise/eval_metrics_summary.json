@@ -1,0 +1,67 @@
+[
+  {
+    "name": "kodim01",
+    "description": "Kodak #1: Cottage with Timber Walls & Stream",
+    "resolution": "768x512",
+    "psnr_noisy": 12.53,
+    "ssim_noisy": 0.1912,
+    "psnr_base": 21.12,
+    "ssim_base": 0.4657,
+    "psnr_imp": 22.57,
+    "ssim_imp": 0.5577,
+    "delta_psnr": 1.45,
+    "delta_ssim": 0.0921
+  },
+  {
+    "name": "kodim03",
+    "description": "Kodak #3: Island & Stone Wall Landscape",
+    "resolution": "768x512",
+    "psnr_noisy": 12.46,
+    "ssim_noisy": 0.0688,
+    "psnr_base": 24.73,
+    "ssim_base": 0.65,
+    "psnr_imp": 27.67,
+    "ssim_imp": 0.6863,
+    "delta_psnr": 2.94,
+    "delta_ssim": 0.0363
+  },
+  {
+    "name": "kodim05",
+    "description": "Kodak #5: Motorcycle Engine & Wire Spokes",
+    "resolution": "768x512",
+    "psnr_noisy": 12.0,
+    "ssim_noisy": 0.1975,
+    "psnr_base": 20.13,
+    "ssim_base": 0.5269,
+    "psnr_imp": 22.28,
+    "ssim_imp": 0.6479,
+    "delta_psnr": 2.16,
+    "delta_ssim": 0.121
+  },
+  {
+    "name": "butterfly",
+    "description": "Set5 Butterfly: High-Frequency Wing Patterns",
+    "resolution": "256x256",
+    "psnr_noisy": 12.08,
+    "ssim_noisy": 0.2659,
+    "psnr_base": 18.13,
+    "ssim_base": 0.6225,
+    "psnr_imp": 21.14,
+    "ssim_imp": 0.7395,
+    "delta_psnr": 3.0,
+    "delta_ssim": 0.117
+  },
+  {
+    "name": "bird",
+    "description": "Set5 Bird: Fine Feather Texture & Eye",
+    "resolution": "288x288",
+    "psnr_noisy": 11.9,
+    "ssim_noisy": 0.113,
+    "psnr_base": 22.88,
+    "ssim_base": 0.6456,
+    "psnr_imp": 26.99,
+    "ssim_imp": 0.7891,
+    "delta_psnr": 4.12,
+    "delta_ssim": 0.1435
+  }
+]

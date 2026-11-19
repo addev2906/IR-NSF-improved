@@ -1,0 +1,62 @@
+[
+  {
+    "image": "bird",
+    "desc": "Set5 Bird: Eye Contour & Feather Textures",
+    "psnr_corrupt": 12.87,
+    "ssim_corrupt": 0.1325,
+    "psnr_base": 22.98,
+    "ssim_base": 0.6501,
+    "psnr_improved": 24.76,
+    "ssim_improved": 0.7117,
+    "delta_psnr": 1.78,
+    "delta_ssim": 0.0616
+  },
+  {
+    "image": "butterfly",
+    "desc": "Set5 Butterfly: High-Frequency Wing Patterns",
+    "psnr_corrupt": 12.87,
+    "ssim_corrupt": 0.3005,
+    "psnr_base": 18.02,
+    "ssim_base": 0.6277,
+    "psnr_improved": 19.95,
+    "ssim_improved": 0.7058,
+    "delta_psnr": 1.93,
+    "delta_ssim": 0.0781
+  },
+  {
+    "image": "kodim03",
+    "desc": "Kodak #3: Landscape, Cap Text & Stone Wall",
+    "psnr_corrupt": 13.24,
+    "ssim_corrupt": 0.0819,
+    "psnr_base": 24.91,
+    "ssim_base": 0.6255,
+    "psnr_improved": 26.18,
+    "ssim_improved": 0.6099,
+    "delta_psnr": 1.27,
+    "delta_ssim": -0.0156
+  },
+  {
+    "image": "kodim01",
+    "desc": "Kodak #1: Cottage Timber Walls & Windows",
+    "psnr_corrupt": 13.29,
+    "ssim_corrupt": 0.2204,
+    "psnr_base": 21.4,
+    "ssim_base": 0.4773,
+    "psnr_improved": 22.63,
+    "ssim_improved": 0.5563,
+    "delta_psnr": 1.23,
+    "delta_ssim": 0.079
+  },
+  {
+    "image": "kodim05",
+    "desc": "Kodak #5: Motorcycle Engine & Wire Spokes",
+    "psnr_corrupt": 12.82,
+    "ssim_corrupt": 0.2264,
+    "psnr_base": 20.43,
+    "ssim_base": 0.5312,
+    "psnr_improved": 22.2,
+    "ssim_improved": 0.6251,
+    "delta_psnr": 1.77,
+    "delta_ssim": 0.0939
+  }
+]
